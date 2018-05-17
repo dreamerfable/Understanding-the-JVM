@@ -4,14 +4,13 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Java堆溢出
+ * Heap 溢出
  * 
  * <pre>
  * -Xms20m -Xmx20m -XX:+HeapDumpOnOutOfMemoryError
  * </pre>
  * 
  * @author 高强
- * @version 1.0
  */
 public class HeapOOM {
 
